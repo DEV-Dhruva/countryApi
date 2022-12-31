@@ -17,7 +17,7 @@ req.addEventListener('load',function(){
                     ${data.name.common}
                 </h1> </br>
                 <p class="card-body-text">
-                    capital : <span>${data.capital}</span>
+                capital : <span>${data.capital}</span>
                     </p>
             </div></br>
             <div class="card-footer">
